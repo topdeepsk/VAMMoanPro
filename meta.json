@@ -1,0 +1,29 @@
+{
+   "licenseType": "CC BY-SA",
+   "creatorName": "topdeepsk",
+   "packageName": "vammoan",
+   "buildVersion": "26",
+   "standardReferenceVersionOption": "Latest",
+   "scriptReferenceVersionOption": "Latest",
+   "description": "Add female,male moans and sex related sound effects to your characters.",
+   "credits": "",
+   "instructions": "Add the plugin on a person Atom (a character).",
+   "promotionalLink": "",
+   "programVersion": "1.22.0.13",
+   "contentList": [
+      "Custom/Scripts/vammoan/VAMMoanPlugin.cslist",
+      "Custom/Scripts/vammoan/src/third-party/PathExt.cs",
+      "Custom/Scripts/vammoan/src/third-party/TriggerCollide.cs",
+      "Custom/Scripts/vammoan/src/vammoan.cs",
+      "Custom/Scripts/vammoan/src/vammoan_att.cs",
+      "Custom/Scripts/vammoan/src/vammoan_curves.cs",
+      "Custom/Scripts/vammoan/src/vammoan_voice.cs",
+      "Custom/Scripts/vammoan/src/vammoan_voices.cs"
+   ],
+   "dependencies": {},
+   "customOptions": {
+      "preloadMorphs": "false"
+   },
+   "hadReferenceIssues": "false",
+   "referenceIssues": []
+}

@@ -1,0 +1,345 @@
+{
+  "config": {
+    "informations": "<b>Gender: </b> Female\n<b>Quality: </b> 5/5 (Voice actress)\n<b>Variations: </b> Average\n<b>Intensities</b> 0,1 & 2\n<b>Perpetual Orgasm</b> No\n<b>Recommended pitch: </b> 0.88 to 1.12\nEnergetic girl, voiced by the hentami freesoung.org open source samples.",
+    "settings": {
+      "gender": 0,
+      "intensitiesCount": 3,
+      "jawHoldSpring": 42,
+      "jawHoldDamper": 4.2,
+      "audioDriveMultiplier": 180,
+      "audioDriveExtraAngle": 0,
+      "audioDriveMaxAngle": -11,
+      "moanRepetitionBuffer": 7,
+      "overlapLengths": {
+        "0": "-0.025",
+        "1": "-0.025",
+        "2": "-0.025",
+        "3": "-0.025",
+        "4": "-0.025",
+        "6": "-0.025"
+      }
+    }
+  },
+  "moans": [
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-01.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-02.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-03.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-04.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-05.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-06.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-07.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-08.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-09.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m0-10.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-01.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-02.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-03.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-04.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-05.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-06.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-07.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-08.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-09.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-10.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-11.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-12.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-13.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-14.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-15.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-16.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m1-17.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-01.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-02.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-03.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-04.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-05.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-06.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-07.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-08.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-09.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-10.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-11.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-12.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-13.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-14.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-15.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-16.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-17.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-18.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-19.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-20.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-21.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-22.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-23.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-24.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-25.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 4.0
+    }
+  ],
+  "orgasms": [
+    {
+      "audio": "Assets/VAMMoan/Grace/o-01.ogg"
+    }
+  ],
+  "perpetual_orgasms": [
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-01.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-02.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-07.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-08.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-09.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-10.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-12.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-13.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-14.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-15.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-16.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-17.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-20.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-21.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-23.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-24.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Grace/m2-25.ogg"
+    }
+  ]
+}

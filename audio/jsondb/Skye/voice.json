@@ -1,0 +1,613 @@
+{
+  "config": {
+    "informations": "<b>Gender: </b> Female\n<b>Quality: </b> 5/5 (Voice actress)\n<b>Variations: </b> High\n<b>Intensities</b> 0,1,2,3\n<b>Perpetual Orgasm</b> Yes\n<b>Recommended pitch: </b> 0.92 to 1.08\nSkye is a bit shy... but she just needs to warmup.\nVanilla content from VaM by meshedvr, voiced by the talented Pixie Willow (@_PixieWillow).",
+    "settings": {
+      "gender": 0,
+      "intensitiesCount": 4,
+      "jawHoldSpring": 86,
+      "jawHoldDamper": 2,
+      "audioDriveMultiplier": 110,
+      "audioDriveExtraAngle": 0,
+      "audioDriveMaxAngle": -10,
+      "moanRepetitionBuffer": 15,
+      "overlapLengths": {
+        "0": "0.250",
+        "1": "0.125",
+        "2": "-0.025",
+        "3": "-0.010",
+        "4": "-0.010",
+        "6": "-0.010"
+      }
+    }
+  },
+  "moans": [
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-01.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-02.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-03.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-04.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-05.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-06.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-07.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-08.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-09.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-10.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-11.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-12.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-13.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-14.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-15.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-16.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-17.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-18.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-19.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-20.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-21.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-22.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-23.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-24.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-25.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m0-26.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-01.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-02.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-03.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-04.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-05.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-06.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-07.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-08.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-09.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-10.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-11.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-12.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-13.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-14.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-15.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-16.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-17.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-18.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-19.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-20.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-21.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-22.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-23.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-24.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-25.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-26.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-27.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-28.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-29.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-30.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-31.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-32.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-33.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m1-34.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-01.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-02.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-03.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-04.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-05.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-06.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-07.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-08.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-09.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-10.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-11.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-12.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-13.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-14.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-15.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-16.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-17.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-18.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-19.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-20.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m2-21.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-01.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-02.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-03.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-04.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-05.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-06.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-07.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-08.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-09.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-10.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-11.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-12.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-13.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-14.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-15.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-16.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-17.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-18.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-19.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-20.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-21.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-22.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-23.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-24.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-25.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-26.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-27.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/m3-28.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 4.0
+    }
+  ],
+  "orgasms": [
+    {
+      "audio": "Assets/VAMMoan/Skye/o-01.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/o-02.ogg"
+    }
+  ],
+  "perpetual_orgasms": [
+    {
+      "audio": "Assets/VAMMoan/Skye/po-01.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-02.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-03.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-04.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-05.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-06.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-07.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-08.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-09.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Skye/po-10.ogg"
+    }
+  ]
+}

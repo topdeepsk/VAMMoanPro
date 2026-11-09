@@ -62,6 +62,7 @@ namespace VAMMoanPlugin
 		/** PELVIC SLAP START **/
 		private JSONStorableBool enablePelvicSlap;
 		private JSONStorableFloat PSLVolume;
+		private JSONStorableFloat PSLGain;
 		private JSONStorableFloat PSLReverbMix;
 		private JSONStorableFloat PSLMinDelay;
 		private JSONStorableBool PSLEditAdvOptions;
@@ -77,6 +78,7 @@ namespace VAMMoanPlugin
 		// Values used during gameplay to avoid changing the default settings
 		private bool _PSLPaused;
 		private float _PSLVolume;
+		private float _PSLGain;
 		private float _PSLReverbMix;
 		private float _PSLMinDelay;
 		private float _PSLMinIntensity;
@@ -482,6 +484,10 @@ namespace VAMMoanPlugin
 				PSLMinDelay = new JSONStorableFloat("Sound min delay", 0.45f, PSLMinDelayCallback, 0.20f, 1f);
 				RegisterFloat(PSLMinDelay);
 				CreateSlider(PSLMinDelay, true);
+				
+				PSLGain = new JSONStorableFloat("Slap sound gain", 0.2f, PSLGainCallback, 0f, 0.5f);
+				RegisterFloat(PSLGain);
+				CreateSlider(PSLGain, true);
 							
 				PSLEditAdvOptions = new JSONStorableBool("Edit advanced options", false, PSLEditAdvOptionsCallback);
 				CreateToggle(PSLEditAdvOptions, true);
@@ -901,6 +907,10 @@ namespace VAMMoanPlugin
 					PSLMinDelayCallback(val);
 				}, 0.20f, 1f){isStorable=false,isRestorable=false};
 				
+				JSONStorableFloat PSLChangeGain = new JSONStorableFloat("Pelvic slap change gain", PSLGain.val, (val) => {
+					PSLGainCallback(val);
+				}, 0f, 0.5f){isStorable=false,isRestorable=false};
+				
 				JSONStorableFloat PSLChangeReverbMix = new JSONStorableFloat("Pelvic slap change reverb mix", PSLReverbMix.val, (val) => {
 					PSLReverbMixCallback(val);
 				}, 0f, 1f){isStorable=false,isRestorable=false};
@@ -972,6 +982,7 @@ namespace VAMMoanPlugin
 				RegisterAction(unpausePSLTrigger);
 				RegisterFloat(PSLChangeVolume);
 				RegisterFloat(PSLChangeMinDelay);
+				RegisterFloat(PSLChangeGain);
 				RegisterFloat(PSLChangeReverbMix);
 				RegisterFloat(PSLChangeMinIntensity);
 				RegisterFloat(PSLChangeMaxIntensity);
@@ -1513,14 +1524,14 @@ namespace VAMMoanPlugin
 			}
 		}
 		
-		public void PlayAudioPelvicSlap(AudioClip clip, float pitchMin = 1f, float pitchMax = 1f)
+		public void PlayAudioPelvicSlap(AudioClip clip, float pitchMin = 1f, float pitchMax = 1f, float gain = 1f)
 		{
 			if (clip != null)
 			{
 				if( pitchMin < 1f || pitchMax > 1f ) {
 					pelvicSlapAudioSource.pitch = UnityEngine.Random.Range(pitchMin,pitchMax);
 				}
-				pelvicSlapAudioSource.PlayOneShot(clip, _PSLVolume);
+				pelvicSlapAudioSource.PlayOneShot(clip, _PSLVolume * gain);
 			}
 		}
 		
@@ -1809,6 +1820,7 @@ namespace VAMMoanPlugin
 			// Initializing gameplay values
 			_PSLPaused = false;
 			_PSLVolume = PSLVolume.val;
+			_PSLGain = PSLGain.val;
 			_PSLReverbMix = PSLReverbMix.val;
 			_PSLMinDelay = PSLMinDelay.val;
 			_PSLMinIntensity = PSLMinIntensity.val;
@@ -2208,6 +2220,10 @@ namespace VAMMoanPlugin
 			_PSLVolume = volume;
 		}
 		
+		protected void PSLGainCallback( float gain ) {
+			_PSLGain = gain;
+		}
+		
 		protected void PSLReverbMixCallback( float mix ) {
 			_PSLReverbMix = mix;
 			if( pelvicSlapAudioSource != null ) {
@@ -2537,10 +2553,14 @@ namespace VAMMoanPlugin
 				// Clamping the value of intensity based on user settings
 				intensityValue = Mathf.Round( Mathf.Clamp( intensityValue, _PSLMinIntensity, _PSLMaxIntensity ) );
 				
+				// 速度 → 音量增益：0.35 m/s 为 1.0 倍基准，速度上限 0.8，斜率由 Slap sound gain 控制
+				float velocityForGain = Mathf.Clamp( computedVelocity, 0.1f, 0.8f );
+				float slapGain = 1f + 4f * _PSLGain * ( velocityForGain - 0.35f );
+				
 				AudioClip pslclip = voice.GetTriggeredAudioPelvicSlap(intensityValue);
 				if (pslclip != null)
 				{
-					PlayAudioPelvicSlap(pslclip,0.85f,1.15f);
+					PlayAudioPelvicSlap(pslclip,0.85f,1.15f,slapGain);
 				}
 			}
         }

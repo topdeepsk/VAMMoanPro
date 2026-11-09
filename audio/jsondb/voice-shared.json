@@ -1,0 +1,986 @@
+{
+  "config": {
+    "informations": "Shared voice assets for VAMMoan."
+  },
+  "female": {
+    "kisses": [
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-01.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-02.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-03.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-04.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-05.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-06.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-07.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-08.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-09.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-10.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-11.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-12.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-13.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/f-k0-14.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      }
+    ],
+    "breathes": [
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/f-b0-01.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/f-b0-02.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/f-b0-03.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/f-b0-04.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/f-b0-05.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      }
+    ],
+    "blowjobs": [
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-01.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-02.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-03.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-04.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-05.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-06.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-07.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-08.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-09.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-10.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-11.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-12.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-13.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-14.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-15.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-16.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-17.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-18.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-19.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-20.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-21.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-22.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-23.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-24.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-25.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-26.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-27.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-28.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-29.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-30.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-31.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-32.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-33.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-34.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-35.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-36.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-37.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-38.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-39.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-40.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-41.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-42.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-43.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-44.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-45.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-46.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-47.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-48.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-49.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-50.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-51.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-52.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-53.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/f-bj0-54.ogg",
+        "intensity": 0.0
+      }
+    ]
+  },
+  "male": {
+    "kisses": [
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-01.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-02.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-03.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-04.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-05.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-06.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-07.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-08.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-09.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-10.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-11.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-12.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-13.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Kissing/m-k0-14.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      }
+    ],
+    "breathes": [
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/m-b0-01.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/m-b0-02.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/m-b0-03.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Breathing/m-b0-04.ogg",
+        "minArousal": 0.0,
+        "maxArousal": 0.0
+      }
+    ],
+    "blowjobs": [
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-01.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-02.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-03.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-04.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-05.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-06.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-07.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-08.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-09.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-10.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-11.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-12.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-13.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-14.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-15.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-16.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-17.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-18.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-19.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-20.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-21.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-22.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-23.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-24.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-25.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-26.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-27.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-28.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-29.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-30.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-31.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-32.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-33.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-34.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-35.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-36.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-37.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-38.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-39.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-40.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-41.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-42.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-43.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-44.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-45.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-46.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-47.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-48.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-49.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-50.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-51.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-52.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-53.ogg",
+        "intensity": 0.0
+      },
+      {
+        "audio": "Assets/VAMMoan/Shared/Blowjob/m-bj0-54.ogg",
+        "intensity": 0.0
+      }
+    ]
+  },
+  "pelvicslaps": [
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-01.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-02.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-03.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-04.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-05.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-06.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-07.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-08.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl0-09.ogg",
+      "intensity": 1
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-01.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-02.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-03.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-04.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-05.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-06.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-07.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-08.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-09.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-10.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-11.ogg",
+      "intensity": 2
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl1-12.ogg",
+      "intensity": 2
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-01.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-02.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-03.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-04.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-05.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-06.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-07.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-08.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-09.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-10.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-11.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-12.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-13.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-14.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-15.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-16.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-17.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-18.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-19.ogg",
+      "intensity": 3
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/PelvicSlap/psl2-20.ogg",
+      "intensity": 3
+    }
+  ],
+  "squishes": [
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-01.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-02.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-03.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-04.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-05.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-06.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-07.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-08.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-09.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-10.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-11.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-12.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-13.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-14.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-15.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sq0-16.ogg",
+      "intensity": 1
+    }
+  ],
+  "squishes_penis": [
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-01.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-02.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-03.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-04.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-05.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-06.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-07.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-08.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-09.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-10.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-11.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-12.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-13.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-14.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-15.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-16.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-17.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-18.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-19.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-20.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-21.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-22.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-23.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-24.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-25.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-26.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-27.ogg",
+      "intensity": 1
+    },
+    {
+      "audio": "Assets/VAMMoan/Shared/Squishes/sqp0-28.ogg",
+      "intensity": 1
+    }
+  ]
+}

@@ -1,0 +1,1826 @@
+{
+  "config": {
+    "informations": "<b>Gender: </b> Male\n<b>Quality: </b> 5/5 (Voice actor)\n<b>Variations: </b> High\n<b>Intensities</b> All\n<b>Perpetual Orgasm</b> Yes\n<b>Recommended pitch: </b> 0.95 to 1.13\nVoiced by the talended Leo (@LeoGreystoneVA). Manly, deep voice, intimate and slow voice until intensity 4 and the big climax.",
+    "settings": {
+      "gender": 1,
+      "intensitiesCount": 5,
+      "jawHoldSpring": 35,
+      "jawHoldDamper": 3.75,
+      "audioDriveMultiplier": 180,
+      "audioDriveExtraAngle": 0,
+      "audioDriveMaxAngle": -11,
+      "moanRepetitionBuffer": 15,
+      "overlapLengths": {
+        "0": "-0.025",
+        "1": "-0.025",
+        "2": "0",
+        "3": "0.15",
+        "4": "0.20",
+        "6": "-0.010"
+      }
+    }
+  },
+  "moans": [
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-01.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-02.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-03.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-04.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-05.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-06.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-07.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-08.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-09.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-10.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-11.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-12.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-13.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-14.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-15.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-16.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m0-17.ogg",
+      "minArousal": 0.0,
+      "maxArousal": 0.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-01.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-02.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-03.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-04.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-05.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-06.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-07.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-08.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-09.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-10.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-11.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-12.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-13.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-14.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-15.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-16.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-17.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-18.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-19.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-20.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-21.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-22.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-23.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-24.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-25.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-26.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-27.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-28.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-29.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-30.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-31.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-32.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-33.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-34.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-35.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-36.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-37.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-38.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-39.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-40.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-41.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m1-42.ogg",
+      "minArousal": 1.0,
+      "maxArousal": 1.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-01.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-02.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-03.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-04.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-05.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-06.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-07.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-08.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-09.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-10.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-11.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-12.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-13.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-14.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-15.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-16.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-17.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-18.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-19.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-20.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-21.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-22.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-23.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-24.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-25.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-26.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-27.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-28.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-29.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-30.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-31.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-32.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-33.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-34.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-35.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-36.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-37.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-38.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-39.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-40.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-41.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-42.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-43.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m2-44.ogg",
+      "minArousal": 2.0,
+      "maxArousal": 2.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-01.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-02.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-03.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-04.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-05.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-06.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-07.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-08.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-09.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-10.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-11.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-12.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-13.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-14.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-15.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-16.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-17.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-18.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-19.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-20.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-21.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-22.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-23.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-24.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-25.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-26.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-27.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-28.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-29.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-30.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-31.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-32.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-33.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-34.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-35.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-36.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-37.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-38.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-39.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-40.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-41.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-42.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-43.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-44.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-45.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-46.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-47.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-48.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-49.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-50.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-51.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-52.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-53.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-54.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-55.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-56.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-57.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-58.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-59.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-60.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-61.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-62.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-63.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-64.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-65.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-66.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-67.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-68.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-69.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-70.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-71.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-72.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-73.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-74.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-75.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-76.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-77.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-78.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-79.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-80.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-81.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-82.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-83.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-84.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-85.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-86.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-87.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-88.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-89.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-90.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-91.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-92.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-93.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-94.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-95.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-96.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-97.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-98.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-99.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-100.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-101.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-102.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-103.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-104.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-105.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-106.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-107.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-108.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-109.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-110.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-111.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-112.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-113.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-114.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-115.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m3-116.ogg",
+      "minArousal": 3.0,
+      "maxArousal": 3.0
+    },
+
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-01.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-02.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-03.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-04.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-05.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-06.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-07.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-08.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-09.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-10.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-11.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-12.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-13.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-14.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-15.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-16.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-17.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-18.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-19.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-20.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-21.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-22.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-23.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-24.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-25.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-26.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-27.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-28.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-29.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-30.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-31.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-32.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-33.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-34.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-35.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-36.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-37.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-38.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-39.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-40.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-41.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-42.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-43.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-44.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-45.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-46.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-47.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-48.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-49.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-50.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-51.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-52.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-53.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-54.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-55.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-56.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-57.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-58.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-59.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-60.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-61.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-62.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-63.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-64.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-65.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-66.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-67.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-68.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-69.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-70.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-71.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-72.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-73.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-74.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-75.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-76.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-77.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-78.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-79.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-80.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-81.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-82.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-83.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-84.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-85.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-86.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-87.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-88.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-89.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-90.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-91.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-92.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-93.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-94.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-95.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-96.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-97.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-98.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-99.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-100.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-101.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-102.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-103.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-104.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-105.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-106.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-107.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-108.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-109.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-110.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-111.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-112.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-113.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-114.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-115.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-116.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-117.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-118.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-119.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-120.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/m4-121.ogg",
+      "minArousal": 4.0,
+      "maxArousal": 4.0
+    }
+  ],
+  "orgasms": [
+    {
+      "audio": "Assets/VAMMoan/Seth/o-01.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-02.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-03.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-04.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-05.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-06.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-07.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-08.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/o-09.ogg"
+    }
+  ],
+  "perpetual_orgasms": [
+    {
+      "audio": "Assets/VAMMoan/Seth/po-01.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-02.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-03.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-04.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-05.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-06.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-07.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-08.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-09.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-10.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-11.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-12.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-13.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-14.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-15.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-16.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-17.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-18.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-19.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-20.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-21.ogg"
+    },
+    {
+      "audio": "Assets/VAMMoan/Seth/po-22.ogg"
+    }
+  ]
+}

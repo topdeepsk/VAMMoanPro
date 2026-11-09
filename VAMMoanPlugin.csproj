@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net35</TargetFramework>
+    <LangVersion>6</LangVersion>
+    <AssemblyName>VAMMoanPlugin</AssemblyName>
+    <RootNamespace>VAMMoanPlugin</RootNamespace>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <DefaultItemExcludes>$(DefaultItemExcludes);dist\**</DefaultItemExcludes>
+    <NoWarn>CS0649;CS0169;CS0414;CS0219</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <_VamProbe0>$(MSBuildProjectDirectory)</_VamProbe0>
+    <_VamProbe1 Condition="'$(_VamProbe0)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe0)))</_VamProbe1>
+    <_VamProbe2 Condition="'$(_VamProbe1)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe1)))</_VamProbe2>
+    <_VamProbe3 Condition="'$(_VamProbe2)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe2)))</_VamProbe3>
+    <_VamProbe4 Condition="'$(_VamProbe3)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe3)))</_VamProbe4>
+    <_VamProbe5 Condition="'$(_VamProbe4)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe4)))</_VamProbe5>
+    <_VamProbe6 Condition="'$(_VamProbe5)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe5)))</_VamProbe6>
+    <_VamProbe7 Condition="'$(_VamProbe6)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe6)))</_VamProbe7>
+    <_VamProbe8 Condition="'$(_VamProbe7)' != ''">$([System.IO.Path]::GetDirectoryName($(_VamProbe7)))</_VamProbe8>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe0)\VaM.exe')">$(_VamProbe0)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe1)\VaM.exe')">$(_VamProbe1)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe2)\VaM.exe')">$(_VamProbe2)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe3)\VaM.exe')">$(_VamProbe3)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe4)\VaM.exe')">$(_VamProbe4)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe5)\VaM.exe')">$(_VamProbe5)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe6)\VaM.exe')">$(_VamProbe6)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe7)\VaM.exe')">$(_VamProbe7)</VamDir>
+    <VamDir Condition="'$(VamDir)' == '' and Exists('$(_VamProbe8)\VaM.exe')">$(_VamProbe8)</VamDir>
+  </PropertyGroup>
+
+  <Target Name="VamDirCheck" BeforeTargets="PrepareForBuild">
+    <Error Condition="'$(VamDir)' == ''"
+           Text="VaM installation directory not found: searched 8 parent levels from $(MSBuildProjectDirectory) and found no VaM.exe. Specify it with dotnet build /p:VamDir=&lt;VaM directory&gt;." />
+    <Error Condition="!Exists('$(VamDir)\VaM_Data\Managed\Assembly-CSharp.dll')"
+           Text="VamDir=$(VamDir) does not contain VaM_Data\Managed\Assembly-CSharp.dll. Verify that this is the VaM installation directory, or pass /p:VamDir=... explicitly." />
+  </Target>
+
+  <ItemGroup>
+    <Compile Include="src\**\*.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(VamDir)\VaM_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(VamDir)\VaM_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies.net35" Version="1.0.3">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

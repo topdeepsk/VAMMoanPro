@@ -141,7 +141,7 @@ namespace VAMMoanPlugin
 		private AudioLowPassFilter mouthLPF;
 		/** MOUTH/BJ END **/
 		
-		private string defaultVoice = "mito";
+		private string defaultVoice = "Mito";
 		private string selectedVoice;
 		private string defaultMode = "Manual";
 		private bool voiceInitialized = false;
